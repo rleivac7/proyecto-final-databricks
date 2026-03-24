@@ -1,0 +1,4 @@
+https://api.accredible.com/v1/auth/invite?code=e5927b22d4ebf6a37f8e&credential_id=1b40a682-0424-4a74-9782-1413ecd9dde1&url=https%3A%2F%2Fcredentials.databricks.com%2F1b40a682-0424-4a74-9782-1413ecd9dde1&ident=377d3156-7537-4a59-b52f-c8e1de4284e4
+
+
+https://api.accredible.com/v1/auth/invite?code=2b45ec82921ffbf99d44&credential_id=e4bf337c-fe44-4864-97c4-e8f3dd288e5f&url=https%3A%2F%2Fcredentials.databricks.com%2Fe4bf337c-fe44-4864-97c4-e8f3dd288e5f&ident=377d3156-7537-4a59-b52f-c8e1de4284e4
